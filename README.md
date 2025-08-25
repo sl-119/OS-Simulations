@@ -18,7 +18,5 @@ The experiments cover core OS concepts such as process scheduling, deadlock hand
 | 6 | **Deadlock Handling** | Implemented **Banker’s Algorithm** for deadlock avoidance and detection using System V IPC. |
 | 7 | **Page Replacement Algorithms** | Implemented memory page replacement policies: <br> - FIFO <br> - LRU <br> - Optimal |
 
----
 
-## 📂 Repository Structure
 
